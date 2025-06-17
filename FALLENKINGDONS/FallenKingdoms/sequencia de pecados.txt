@@ -1,0 +1,14 @@
+1-preguiça = reino comum
+-buscou o primeiro reino que achou
+2-ganancia = egito
+-buscou o com mais riqueza
+3-gula = feira
+-buscou um local rico em alimento
+4-ira = vulcao
+-buscou um local explosivo como ele
+5-luxuria = cidade da noite
+-buscou prazer nos mortais
+6-inveja = junção dos outros reinos, plottwist
+-buscou fazer seu proprio reino
+7-orgulho = grecia no ceu
+-buscou oq ele sempre achou que era, o maior

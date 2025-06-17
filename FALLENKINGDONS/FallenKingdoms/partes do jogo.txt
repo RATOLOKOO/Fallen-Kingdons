@@ -1,0 +1,18 @@
+1-capitulo = recebendo a carta ate o fim do pecado do sono
+cut scene recebendo a carta
+abrindo ela e colocando o nome e lendo
+mini cutt scene deixando a carta de lado, pegando sua espada e andando para fora de casa
+abre o mapa, entra na fase
+****Fase 1****
+****boss****
+mini cut scene dele chegando
+falas entre o pecado e o personagem
+luta
+
+2-capitulo = pecado do sono morto e indo para o pecado da ganancia
+abre o mapa de novo e entra na fase
+mini cut scene dele chegando no mundo da ganancia
+****Fase 1****
+mini cut scene chegando no boss
+luta
+
